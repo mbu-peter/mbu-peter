@@ -1,19 +1,19 @@
 # Hi there, I'm Mbugua! 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/mbugua_is_me?style=social)](https://twitter.com/mbugua_is_me)
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-![Profile views](https://gpvc.arturio.dev/mbu-peter)
+![GitHub followers](https://img.shields.io/github/followers/mbu-peter?label=Follow&style=social)
 
-I'm a passionate Software from Nairobi. I switched from python and found so interest in 
+
+I'm a passionate Fullstack MERN Software Developer from Nairobi. 6 years ago, I switched from python and found interest in 
 
 - 💻 React
 - 🚀 Node
 - ⚡️ MongoDB
-- - ⚡️ MongoDB
+- Typescript
 ## 🌱 I'm currently involved in...
 Nextjs: I find the RSS and CSR amazing
 ## 📫 How to reach me:
-- Twitter: [@your_twitter_handle](https://twitter.com/mbugua_is_me)
+- Twitter: [@mbugua_is_me](https://twitter.com/mbugua_is_me)
 
 ---
 <p align="center">
