@@ -10,6 +10,7 @@ I'm a passionate Fullstack MERN Software Developer from Nairobi. 6 years ago, I 
 - 🚀 Node
 - ⚡️ MongoDB
 - Typescript
+- Express
 ## 🌱 I'm currently involved in...
 Nextjs: I find the RSS and CSR amazing
 ## 📫 How to reach me:
