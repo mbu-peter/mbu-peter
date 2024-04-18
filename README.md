@@ -7,10 +7,11 @@
 I'm a passionate Fullstack MERN Software Developer from Nairobi. 6 years ago, I switched from python and found interest in 
 
 - 💻 React
-- 🚀 Node
+- 🚀 Node js
 - ⚡️ MongoDB
-- Typescript
-- Express
+- 💻Typescript
+- 💻Express
+- ⚡️ Python
 ## 🌱 I'm currently involved in...
 Nextjs: I find the RSS and CSR amazing
 ## 📫 How to reach me:
