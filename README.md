@@ -13,7 +13,8 @@ I'm a passionate Fullstack MERN Software Developer from Nairobi. 6 years ago, I 
 ## 🌱 I'm currently involved in...
 Nextjs: I find the RSS and CSR amazing
 ## 📫 How to reach me:
-- Twitter: [@mbugua_is_me](https://twitter.com/mbugua_is_me)
+- X: [@mbugua_is_me](https://twitter.com/mbugua_is_me)
+- email: [pmcode6234@gmail.com]
 
 ---
 <p align="center">
