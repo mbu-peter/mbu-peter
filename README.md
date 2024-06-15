@@ -1,10 +1,10 @@
-# Hi there, I'm Mbugua! 👋
+#I'm Mbugua! 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/mbugua_is_me?style=social)](https://twitter.com/mbugua_is_me)
 
 ![GitHub followers](https://img.shields.io/github/followers/mbu-peter?label=Follow&style=social)
 
 
-I'm a passionate Fullstack MERN Software Developer from Nairobi. 6 years ago, I switched from python and found interest in 
+Fullstack Software Developer
 
 - 💻 React
 - 🚀 Node js
