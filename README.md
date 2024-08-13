@@ -6,10 +6,10 @@
 
 Fullstack Software Developer
 
-- 💻 React
+- 💻 Django
 - 🚀 Node js
 - ⚡️ MongoDB
-- 💻Typescript
+- 💻Reactjs
 - 💻Express
 - ⚡️ Python
 - ⚡️ postgreSQL
