@@ -18,7 +18,7 @@ Nextjs: I find the RSS and CSR amazing
 ## 📫 How to reach me:
 - X: [@mbugua_is_me](https://twitter.com/mbugua_is_me)
 - email: [pmcode6234@gmail.com]
-- site: [https://peter-mbugua.onrender.com/]
+- site: [visit site](https://peter-mbugua.onrender.com/)
 
 ---
 
