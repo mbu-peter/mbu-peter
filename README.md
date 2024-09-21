@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mbu-peter?label=Follow&style=social)
 
 
-Fullstack Software Developer
+<h1>Software Developer</h1> 
 
 - 💻Django
 - 🚀Django Rest Framework
