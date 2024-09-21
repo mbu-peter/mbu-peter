@@ -6,16 +6,15 @@
 
 Fullstack Software Developer
 
-- 💻 Django
-- 🚀 Node js
-- ⚡️ MongoDB
-- 💻Reactjs
+- 💻Django
+- 🚀Django Rest Framework
+- ⚡️Python
+- 💻FastAPI
 - 💻Express
-- ⚡️ Python
+- ⚡️Nodejs
 - ⚡️ postgreSQL
-## 🌱 I'm currently involved in...
-Nextjs: I find the RSS and CSR amazing
-## 📫 How to reach me:
+## 🌱 
+## 📫 Contact me:
 - X: [@mbugua_is_me](https://twitter.com/mbugua_is_me)
 - email: [pmcode6234@gmail.com]
 - site: [visit site](https://peter-mbugua.onrender.com/)
