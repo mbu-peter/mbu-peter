@@ -6,12 +6,12 @@
 
 <h1>Software Developer</h1> 
 
-- 💻Django
-- 🚀Django Rest Framework
+- 💻Core Java
+- 🚀Spring Boot
 - ⚡️Python
 - 💻FastAPI
-- 💻Express
-- ⚡️Nodejs
+- 💻MySQL
+- ⚡️Spring FrameWork
 - ⚡️ postgreSQL
 ## 🌱 
 ## 📫 Contact me:
