@@ -15,7 +15,7 @@
 - ⚡️ postgreSQL
 ## 🌱 
 ## 📫 Contact me:
-- X: [@mbugua_is_me](https://twitter.com/mbugua_is_me)
+- X: [@mbugua_is_me](https://twitter.com/mbugua_Khara)
 - email: [pmcode6234@gmail.com]
 - site: [visit site](https://peter-mbugua.onrender.com/)
 
