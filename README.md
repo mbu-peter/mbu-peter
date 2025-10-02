@@ -14,7 +14,7 @@
 -  Microservices
 ## 🌱 
 ## 📫 Contact
-- X: [@mbugua_is_me](https://twitter.com/mbugua_Khara)
+- X: [@mbugua_Khara](https://twitter.com/mbugua_Khara)
 - email: [pmcode6234@gmail.com]
 - site: [visit site](https://mbugua-info.vercel.app/)
 
