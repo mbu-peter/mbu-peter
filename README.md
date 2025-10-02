@@ -1,5 +1,5 @@
 <h1>Peter Mbugua! 👋 </h1>
-[![Twitter Follow](https://img.shields.io/twitter/follow/mbugua_is_me?style=social)](https://twitter.com/mbugua_Khara)
+
 
 ![GitHub followers](https://img.shields.io/github/followers/mbu-peter?label=Follow&style=social)
 
