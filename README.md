@@ -13,11 +13,14 @@
 - 💻MySQL
 - ⚡️Spring FrameWork
 - ⚡️ postgreSQL
+-  AWS
+-  Docker
+-  Microservices
 ## 🌱 
-## 📫 Contact me:
+## 📫 Contact
 - X: [@mbugua_is_me](https://twitter.com/mbugua_Khara)
 - email: [pmcode6234@gmail.com]
-- site: [visit site](https://peter-mbugua.onrender.com/)
+- site: [visit site](https://mbugua-info.vercel.app/)
 
 ---
 
