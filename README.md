@@ -1,9 +1,5 @@
 <h1>Peter Mbugua! 👋 </h1>
 
-
-![GitHub followers](https://img.shields.io/github/followers/mbu-peter?label=Follow&style=social)
-
-
 <h2>Software Developer</h2> 
 
 - 💻Core Java
