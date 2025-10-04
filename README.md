@@ -35,7 +35,7 @@
   <a href="https://github.com/mbu-peter/vcc-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbu-peter&repo=vcc-frontend&theme=radical" width="250"/>
   </a>
-  <a href="https://github.com/mbu-peter/portfolio">
+  <a href="[https://github.com/mbu-peter/portfolio](https://fast-api-social-app.onrender.com/)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbu-peter&repo=portfolio&theme=radical" width="250"/>
   </a>
 </p>
