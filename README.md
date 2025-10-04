@@ -1,9 +1,7 @@
 <h1 align="center">Peter Mbugua 👋</h1>
 <h2 align="center">Software Developer | Java | Spring Boot | Python | FastAPI</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300"/>
-</p>
+
 
 ---
 
