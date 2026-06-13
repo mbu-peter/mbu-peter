@@ -1,78 +1,57 @@
-<h1 align="center">Peter Mbugua 👋</h1>
-<h2 align="center">Software Developer | Java | Spring Boot | Python | FastAPI</h2>
-
-
-
----
-
-## 💻 Skills
-
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Microservices](https://img.shields.io/badge/Microservices-FF6F61?style=for-the-badge)
-
----
-
-## 🌱 Currently Learning
-
-- Kubernetes & Helm  
-- GraphQL  
-- Advanced AWS services  
-- Rust programming  
-
----
-
-## 🚀 Featured Projects
+<h1 align="center">Peter Mbugua</h1>
 
 <p align="center">
-  <a href="https://github.com/mbu-peter/vcc-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbu-peter&repo=vcc-frontend&theme=radical" width="250"/>
-  </a>
-  <a href="[https://github.com/mbu-peter/portfolio](https://fast-api-social-app.onrender.com/)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbu-peter&repo=portfolio&theme=radical" width="250"/>
-  </a>
+  Backend Engineer &nbsp;·&nbsp; Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; AWS
+</p>
+
+<p align="center">
+  Building distributed systems and backends that don't wake you up at 3am.<br/>
+  Currently learning Kubernetes, Rust, and how to be patient with YAML.
 </p>
 
 ---
 
+### Stack
+
+`Java` `Spring Boot` `Python` `FastAPI` `PostgreSQL` `MySQL` `Docker` `AWS` `Microservices`
 
 ---
 
-## 📫 Contact 
+### Currently exploring
+
+```
+→ Kubernetes & Helm    — taming container chaos
+→ Rust                 — fighting the borrow checker (and losing)
+→ GraphQL              — because REST gets tiring
+→ Advanced AWS         — the parts nobody warns you about
+```
+
+---
+
+### Projects
+
+| Project                                                          | Description                                  | Stack                         |
+| ---------------------------------------------------------------- | -------------------------------------------- | ----------------------------- |
+| [vcc-frontend](https://github.com/mbu-peter/vcc-frontend)        | Frontend for VCC — clean UI, solid structure | React · TypeScript            |
+| [fast-api-social-app](https://fast-api-social-app.onrender.com/) | Social app backend, live on Render           | Python · FastAPI · PostgreSQL |
+
+---
+
+### Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mbugua-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbugua)
+[![Twitter](https://img.shields.io/badge/Twitter-mbugua__Khara-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mbugua_Khara)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mbugua--info-black?style=flat-square&logo=vercel&logoColor=white)](https://mbugua-info.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-pmcode6234-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pmcode6234@gmail.com)
+
+---
+
+### Outside the terminal
+
+`gamer` &nbsp; `guitar` &nbsp; `AI & robotics nerd` &nbsp; `traveler` &nbsp; `coffee-dependent`
+
+---
 
 <p align="center">
-  <a href="https://twitter.com/mbugua_Khara">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mbugua">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mbugua-info.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:pmcode6234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🎯 Fun / Personality
-
-- 🕹️ Gamer  
-- 🎸 Guitar Player  
-- 🤖 AI & Robotics Enthusiast  
-- 🌍 Traveler & Coffee Lover  
-
----
-
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 </p>
