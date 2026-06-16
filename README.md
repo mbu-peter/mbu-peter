@@ -28,12 +28,10 @@
 
 ---
 
-### Projects
+### NX
 
 | Project                                                          | Description                                  | Stack                         |
-| ---------------------------------------------------------------- | -------------------------------------------- | ----------------------------- |
-| [vcc-frontend](https://github.com/mbu-peter/vcc-frontend)        | Frontend for VCC — clean UI, solid structure | React · TypeScript            |
-| [fast-api-social-app](https://fast-api-social-app.onrender.com/) | Social app backend, live on Render           | Python · FastAPI · PostgreSQL |
+
 
 ---
 
