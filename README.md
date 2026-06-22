@@ -40,7 +40,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mbugua-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbugua)
 [![Twitter](https://img.shields.io/badge/Twitter-mbugua__Khara-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mbugua_Khara)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mbugua--info-black?style=flat-square&logo=vercel&logoColor=white)](https://mbugua-info.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-pmcode6234-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pmcode6234@gmail.com)
+
 
 ---
 
